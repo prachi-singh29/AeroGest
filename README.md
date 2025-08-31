@@ -3,7 +3,7 @@
 
 # Team
 Developers:
-Ishan Rai | Nakshatra Thange | Prachi Singh
+Ishan Rai | Nakshatra Thange | Prachi Singh |
 Ishit Chhabra | Gauri Makker
 
 Mentor: Dr. Jitendra P.S. Mathur
